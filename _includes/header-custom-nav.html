@@ -1,0 +1,7 @@
+<nav>
+{% for item in site.data.navigation.items %}
+    <a class="btn" href="{{ site.baseurl }}{{ item.link }}">
+      {{ item.name }}
+    </a>
+{% endfor %}
+</nav>
