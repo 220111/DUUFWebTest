@@ -1,5 +1,6 @@
 ---
 title: Home
+permalink: /
 ---
 
 # Denton UU Fellowship
