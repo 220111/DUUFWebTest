@@ -5,3 +5,5 @@ items:
     link: /about/
   - name: Blog
     link: /blog/
+  - name: Test
+    link: /test/
